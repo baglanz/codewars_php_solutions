@@ -18,3 +18,6 @@ function differenceInAges($ages) {
 
     return [$ages[0], $ages[array_key_last($ages)], $ages[array_key_last($ages)] - $ages[0]];
 }
+?>
+
+See on CodeWars.com: https://www.codewars.com/kata/5720a1cb65a504fdff0003e2
